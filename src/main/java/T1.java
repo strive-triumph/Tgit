@@ -4,5 +4,8 @@ public class T1 {
         System.out.println("t2");
         System.out.println("t3");
         System.out.println("t4");
+        System.out.println("t5");
+        System.out.println("t6");
+
     }
 }
