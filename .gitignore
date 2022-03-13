@@ -4,16 +4,16 @@
 *.jar
 *.war
 *.ear
-
+*.idea
 # IDEA
-.idea/
 *.ipr
 *.iml
 *.iws
 
 
-
+.idea
 #maven
+.idea/
 target/
 dependency-reduced-pom.xml
 pom.xml.versionsBackup
