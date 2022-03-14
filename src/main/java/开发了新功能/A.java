@@ -6,4 +6,7 @@ package 开发了新功能;
  * @Description:
  **/
 public class A {
+    public static void main(String[] arg) {
+        String a = "master添加的";
+    }
 }
