@@ -7,6 +7,8 @@ public class T1 {
         System.out.println("t5");
         System.out.println("t6");
         System.out.println("t7");
+        System.out.println("t7");
+        System.out.println("t7");
 
     }
 }
