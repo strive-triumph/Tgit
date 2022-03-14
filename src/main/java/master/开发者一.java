@@ -1,3 +1,5 @@
+package master;
+
 /**
  * @Author: bai
  * @DateTime: 2022/3/14 10:26
