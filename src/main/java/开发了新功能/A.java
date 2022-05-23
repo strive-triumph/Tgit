@@ -11,6 +11,8 @@ public class A {
         System.out.println("新加2");
         String a = "master添加的";
         System.out.println("release0.2");
+        System.out.println("release0.2yes");
+
     }
 }
 
