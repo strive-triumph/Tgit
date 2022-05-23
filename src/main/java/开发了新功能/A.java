@@ -12,6 +12,12 @@ public class A {
         String a = "master添加的";
 
         System.out.println("提交");
+        System.out.println("提交");
+        System.out.println("提交");
+        System.out.println("提交");
+        System.out.println("提交");
+        System.out.println("提交");
+        System.out.println("提交");
     }
 }
 
